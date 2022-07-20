@@ -266,3 +266,6 @@ main {
 #playlist_container li{
   padding-bottom: 10px;
 }
+.active{
+background-color: rgba(255, 0, 0, 0.835);
+}
